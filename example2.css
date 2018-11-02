@@ -1,0 +1,38 @@
+.topbox{
+  max-height: 1000px;
+  margin: 10px 10px 10px 10px;
+  padding-top: 200px;
+  padding-bottom: 20px;
+  margin:auto;
+  border: purple 1px dashed;
+}
+
+p {
+  font-family:"Times New Roman", Times, serif;
+  text-align: center;
+}
+
+.firstsentence{
+  color: green;
+  font-size: 10px;
+  font-family:"Trebuchet", Trebuchet, sans-serif;
+  text-align: center;
+  font-weight: bold;
+}
+.secondsentence{
+  text-align: left;
+  font-size:40px;
+  color:orange
+}
+#textred{
+  color: red;
+}
+.thirdsentence{
+  color: purple;
+  text-align: right;
+  font-size: 10px;
+}
+
+#textyellow{
+  color: yellow;
+}
